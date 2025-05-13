@@ -1,8 +1,10 @@
 #!/bin/bash
 echo "Testing git Operation"
 df -h
+pwd
 lscpu
 free -m
 top
 htop
-du -h
+free -g
+fin
