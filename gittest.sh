@@ -6,3 +6,4 @@ free -m
 top
 htop
 free -g
+fin
