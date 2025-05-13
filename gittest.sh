@@ -5,4 +5,4 @@ lscpu
 free -m
 top
 htop
-du -h
+free -g
